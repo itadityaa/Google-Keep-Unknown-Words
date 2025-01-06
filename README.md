@@ -1,2 +1,3 @@
-# Google-Keep-Unknown-Words
-Retrieve the meanings of new words stored in a Google Keep note.
+# Word Meaning Project
+
+This project retrieves meanings of words from a Google Keep note and stores them in an SQL database.
